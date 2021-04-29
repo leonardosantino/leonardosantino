@@ -2,7 +2,7 @@
 - 👀 I’m interested in to learn Full Stack Development
 - 🌱 I’m currently learning Html5, Css3 and JavaScript
 - 💞️ I’m looking to collaborate on small projects right now
-- 📫 How to reach me? I'm here 😁
+- 📫 How to reach me... [on Linkedin](https://www.linkedin.com/in/leonardosantino/)
 - 🗺️ Living in Pernambuco 🇧🇷 
 
 <!---
