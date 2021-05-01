@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeonardoSantino
+- 👋 Hi, I’m @leonardosantino
 - 👀 I’m interested in to learn Full Stack Development
 - 🌱 I’m currently learning Html5, Css3 and JavaScript
 - 💞️ I’m looking to collaborate on small projects right now
