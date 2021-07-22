@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @leonardosantino
+# 👋 Hi, I’m Leonardo Santino
 - 👀 I’m interested in to learn Full Stack Development
-- 🌱 I’m currently learning about JavaScript, MySQL, Html5 e Css3
-   
+- 🌱 I’m currently learning about JavaScript, Node.JS, MySQL, Bootstrap, Html5 e Css3
 - 💞️ I’m looking to collaborate on small projects right now
 - 📫 How to reach me... <a href="https://www.linkedin.com/in/leonardosantino/"><img src="imgs\LinkedIn.png" alt="Linkedin"></a>
 - 🗺️ Living in Pernambuco 🇧🇷
