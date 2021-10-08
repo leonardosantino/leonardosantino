@@ -12,10 +12,8 @@
                                        function welcome() { return "Welcome !!!" }
 ```
 
-<table>
-   
-<tr>
-   
+<table>   
+<tr>   
 <th>
    
       FRONT-END
@@ -40,11 +38,9 @@
 
       DEVOPS
 </th>
-
 </tr>
 
 <tr>
-
 <td align="center">
 <a href="#"><img src="imgs\html.png" alt="HTML5" title="HTML5"></a></a>&emsp;
 <a href="#"><img src="imgs\css.png" alt="CSS3" title="CSS3"></a>&emsp;
@@ -58,7 +54,7 @@
 <a href="#"><img src="imgs\nodejs.png" alt="Node.JS" title="Node.JS"></a>
 </td>
 <td align="center">
-<a href="#"><img src="imgs\mysql.png" alt="MySQL" title="MySQL"></a>&emsp;
+<a href="#"><img src="imgs\mysql.png" alt="MySQL" title="MySQL"></a>
 </td>
 <td align="center">
 <a href="#"><img width="32" height="32" src="https://xesque.rocketseat.dev/platform/tech/dart.svg" alt="Dart" title="Dart"></a>&emsp;
@@ -73,9 +69,7 @@
 <a href="#"><img width="32" height="32" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" title="AWS"></a>&emsp;
 <a href="#"><img width="32" height="32" src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" title="Docker"></a>
 </td>
-
 </tr>
-
 </table>
 
 <!---
