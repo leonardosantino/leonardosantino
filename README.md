@@ -1,4 +1,4 @@
-<h1 align="center">About me 👀</h1>
+<h1 align="center">About me<img width="64" height="64" src="https://c.tenor.com/0Ez-AxaM_9EAAAAi/paper-mario.gif" alt="Linkedin" title="Linkedin"></h1>
 
 <p align="center">📚 Tech Developer Student,  Living in 🗺️ Pernambuco 🇧🇷</p>
 
