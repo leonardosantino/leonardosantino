@@ -44,8 +44,7 @@
 <td align="center">
 <a href="#"><img src="imgs\html.png" alt="HTML5" title="HTML5"></a></a>&emsp;
 <a href="#"><img src="imgs\css.png" alt="CSS3" title="CSS3"></a>&emsp;
-<a href="#"><img width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/919/919831.png" alt="Sass" title="Sass"></a>
-
+<a href="#"><img width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/919/919831.png" alt="Sass" title="Sass"></a>&nbsp;
 <a href="#"><img src="imgs\bootstrap.png" alt="Bootstrap" title="Bootstrap"></a>&emsp;
 <a href="#"><img src="imgs\javascript.png" alt="JavaScript" title="JavaScript"></a>
 </td>
