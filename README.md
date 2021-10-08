@@ -12,26 +12,26 @@
                                        function welcome() { return "Welcome !!!" }
 ```
 
-<table>   
-<tr>   
+<table>
+<tr>
 <th>
-   
+
       FRONT-END
 </th>
 <th>
-   
+
       BACK-END
 </th>
 <th>
-   
+
       DATABASES
 </th>
 <th>
-   
+
       MOBILE
 </th>
 <th>
-   
+
       TOOLS
 </th>
 <th>
