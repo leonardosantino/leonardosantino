@@ -49,6 +49,7 @@
 <!--- FRONT-END --->
 <td align="center">
 <a href="#"><img width="32" height="32" src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg" alt="ReactJS" title="ReactJS"></a>
+<a href="#"><img width="32" height="32" src="https://xesque.rocketseat.dev/platform/tech/angularjs.svg" alt="ReactJS" title="Angular"></a>
 <a href="#"><img width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/919/919831.png" alt="Sass" title="Sass"></a>
 <a href="#"><img width="36" height="36" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap"></a>
 </td>
