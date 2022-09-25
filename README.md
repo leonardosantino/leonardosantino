@@ -1,6 +1,6 @@
 <h1 align="center">About me<a href="#"><img width="64" height="64" src="https://c.tenor.com/0Ez-AxaM_9EAAAAi/paper-mario.gif" alt="Super Mario"></a></h1>
 
-<p align="center">📚 Tech Developer Student, living in 🗺️ Pernambuco 🇧🇷</p>
+<p align="center">📚 Software developer, living in 🗺️ Pernambuco 🇧🇷</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/leonardosantino/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" title="Linkedin"></a>
