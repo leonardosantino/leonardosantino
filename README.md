@@ -9,7 +9,7 @@
 #
    
 ```javascript
-                                       function welcome() { return "Welcome !!!" }
+                                       function greeting() { return "Welcome !!!" }
 ```
 
 <table>
