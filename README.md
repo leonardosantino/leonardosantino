@@ -8,8 +8,8 @@
 
 #
    
-```javascript
-                                       function greeting() { return "Welcome !!!" }
+```kotlin
+                                       fun greeting(): String { return "Welcome !!!" }
 ```
 
 <table>
