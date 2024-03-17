@@ -16,23 +16,23 @@
 <tr>
 <th>
 
-      BACK-END
+      BACK-END      
 </th>
 <th>
 
-      DATABASES
+      DATABASES      
 </th>
 <th>
 
-      LANGUAGES
+      LANGUAGES      
 </th>
 <th>
 
-      TOOLS
+      TOOLS      
 </th>
 <th>
 
-      DEVOPS
+      DEVOPS      
 </th>
 </tr>
 
