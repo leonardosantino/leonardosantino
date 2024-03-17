@@ -16,19 +16,11 @@
 <tr>
 <th>
 
-      FRONT-END
-</th>
-<th>
-
       BACK-END
 </th>
 <th>
 
       DATABASES
-</th>
-<th>
-
-      MOBILE
 </th>
 <th>
 
@@ -46,15 +38,10 @@
 
 <tr>
    
-<!--- FRONT-END --->
-<td align="center">
-<a href="#"><img width="32" height="32" src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg" alt="React" title="React"></a>
-</td>
-   
 <!--- BACK-END --->
 <td align="center">
-<a href="#"><img width="32" height="32" src="https://xesque.rocketseat.dev/platform/tech/node.svg" alt="Node" title="Node"></a>
 <a href="#"><img width="34" height="34" src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring boot" title="Spring boot"></a>
+<a href="#"><img width="32" height="32" src="https://xesque.rocketseat.dev/platform/tech/node.svg" alt="Node" title="Node"></a>
 </td>
    
 <!--- DATABASES --->
@@ -63,22 +50,17 @@
 <a href="#"><img width="32" height="32" src="https://xesque.rocketseat.dev/platform/tech/mongodb.svg" alt="MongoDB" title="MongoDB"></a>
 </td>
    
-<!--- MOBILE --->
-<td align="center">
-<a href="#"><img width="32" height="32" src="https://xesque.rocketseat.dev/platform/tech/flutter.svg" alt="Flutter" title="Flutter"></a>
-</td>
-   
 <!--- LANGUAGES --->
 <td align="center">
 <a href="#"><img width="32" height="32" src="https://xesque.rocketseat.dev/platform/tech/java.svg" alt="Java" title="Java"></a>
+<a href="#"><img width="32" height="32" src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" title="Kotlin"></a>
 <a href="#"><img width="32" height="32" src="https://xesque.rocketseat.dev/platform/tech/typescript.svg" alt="TypeScript" title="TypeScript"></a>
-<a href="#"><img width="32" height="32" src="https://xesque.rocketseat.dev/platform/tech/dart.svg" alt="Dart" title="Dart"></a>
+   
 </td>
 
 <!--- TOOLS --->
 <td align="center">
 <a href="#"><img width="32" height="32" src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="Intellij" title="Intellij"></a>
-<a href="#"><img width="32" height="32" src="https://img.icons8.com/color/48/000000/android-studio--v3.png" alt="Android Studio" title="Android Studio"></a>
 <a href="#"><img width="32" height="32" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" title="VS Code"></a>
 <a href="#"><img width="32" height="32" src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" title="Figma"></a>
 </td>
