@@ -12,7 +12,7 @@
                                        fun greeting(): String { return "Welcome !!!" }
 ```
 
-<table>
+<table align="center">
 <tr>
 <th>
 
