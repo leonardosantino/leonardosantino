@@ -62,7 +62,6 @@
 <td align="center">
 <a href="#"><img width="32" height="32" src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="Intellij" title="Intellij"></a>
 <a href="#"><img width="32" height="32" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" title="VS Code"></a>
-<a href="#"><img width="32" height="32" src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" title="Figma"></a>
 </td>
    
 <!--- DEVOPS --->
