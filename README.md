@@ -28,7 +28,7 @@
 </th>
 <th>
 
-      TOOLS      
+      MESSAGING      
 </th>
 <th>
 
@@ -42,12 +42,14 @@
 <td align="center">
 <a href="#"><img width="34" height="34" src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring boot" title="Spring boot"></a>
 <a href="#"><img width="32" height="32" src="https://xesque.rocketseat.dev/platform/tech/node.svg" alt="Node" title="Node"></a>
+<a href="#"><img width="32" height="32" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/serverless_logo_icon_168838.png" alt="Serverless" title="Serverless"></a>
 </td>
    
 <!--- DATABASES --->
 <td align="center">
 <a href="#"><img width="32" height="32" src="https://xesque.rocketseat.dev/platform/tech/mysql.svg" alt="MySQL" title="MySQL"></a>
 <a href="#"><img width="32" height="32" src="https://xesque.rocketseat.dev/platform/tech/mongodb.svg" alt="MongoDB" title="MongoDB"></a>
+<a href="#"><img width="32" height="32" src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Database_copy_DynamoDB-512.png" alt="DynamoDB" title="DynamoDB"></a>
 </td>
    
 <!--- LANGUAGES --->
@@ -58,10 +60,9 @@
    
 </td>
 
-<!--- TOOLS --->
+<!--- MESSAGING --->
 <td align="center">
-<a href="#"><img width="32" height="32" src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="Intellij" title="Intellij"></a>
-<a href="#"><img width="32" height="32" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" title="VS Code"></a>
+<a href="#"><img width="32" height="32" src="https://www.rabbitmq.com/assets/files/rabbitmq-logo-e91cacd38fcef5219149bc5cfa10b384.svg" alt="RabbitMQ" title="RabbitMQ"></a>
 </td>
    
 <!--- DEVOPS --->
