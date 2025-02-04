@@ -1,15 +1,15 @@
-<h1 align="center">About me<a href="#"><img width="64" height="64" src="https://c.tenor.com/0Ez-AxaM_9EAAAAi/paper-mario.gif" alt="Super Mario"></a></h1>
+<h1 align="center">About me</h1>
 
-<p align="center">📚 Software developer, living in 🗺️ Pernambuco 🇧🇷</p>
+<p align="center">Software developer</p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/leonardosantino/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" title="Linkedin"></a>
+<a href="https://www.linkedin.com/in/leonardosantino/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" title="Linkedin"></a>
 </p>
 
 #
    
 ```kotlin
-                                       fun greeting(): String { return "Welcome !!!" }
+                                                fun getStacks(): String
 ```
 
 <table align="center">
@@ -42,7 +42,7 @@
 <td align="center">
 <a href="#"><img width="34" height="34" src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring boot" title="Spring boot"></a>
 <a href="#"><img width="32" height="32" src="https://xesque.rocketseat.dev/platform/tech/node.svg" alt="Node" title="Node"></a>
-<a href="#"><img width="32" height="32" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/serverless_logo_icon_168838.png" alt="Serverless" title="Serverless"></a>
+<a href="#"><img height="32" src="https://user-images.githubusercontent.com/2752551/30404910-d56d9b66-989d-11e7-9208-b720eb28b4f2.png" alt="Serverless" title="Serverless"></a>
 </td>
    
 <!--- DATABASES --->
