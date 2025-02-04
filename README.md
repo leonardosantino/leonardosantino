@@ -42,7 +42,7 @@
 <td align="center">
 <a href="#"><img width="34" height="34" src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring boot" title="Spring boot"></a>
 <a href="#"><img width="32" height="32" src="https://xesque.rocketseat.dev/platform/tech/node.svg" alt="Node" title="Node"></a>
-<a href="#"><img height="32" src="https://user-images.githubusercontent.com/2752551/30404910-d56d9b66-989d-11e7-9208-b720eb28b4f2.png" alt="Serverless" title="Serverless"></a>
+<a href="#"><img width="32" height="32" src="https://static-00.iconduck.com/assets.00/serverless-icon-512x407-neft7ola.png" alt="Serverless" title="Serverless"></a>
 </td>
    
 <!--- DATABASES --->
