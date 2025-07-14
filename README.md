@@ -9,7 +9,7 @@
 #
    
 ```kotlin
-                                                fun getStacks(): String
+                                                fun getStacks(): Table
 ```
 
 <table align="center">
@@ -42,7 +42,7 @@
 <td align="center">
 <a href="#"><img width="34" height="34" src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring boot" title="Spring boot"></a>
 <a href="#"><img width="32" height="32" src="https://xesque.rocketseat.dev/platform/tech/node.svg" alt="Node" title="Node"></a>
-<a href="#"><img width="32" height="32" src="https://static-00.iconduck.com/assets.00/serverless-icon-512x407-neft7ola.png" alt="Serverless" title="Serverless"></a>
+<a href="#"><img width="256" src="https://cdn.prod.website-files.com/60acbb950c4d6606963e1fed/60acbb950c4d667c3a3e2025_serverless-framework-235f7e57983d270320cba8f86ec0ea65.svg" alt="Serverless" title="Serverless"></a>
 </td>
    
 <!--- DATABASES --->
