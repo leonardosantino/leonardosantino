@@ -16,6 +16,10 @@
 <tr>
 <th>
 
+    FRONT-END
+</th>
+<th>
+
       BACK-END      
 </th>
 <th>
@@ -37,6 +41,11 @@
 </tr>
 
 <tr>
+
+<!--- FRONT-END --->
+<td align="center">
+<a href="#"><img width="32" height="32" src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg" alt="React" title="React"></a>
+</td>
    
 <!--- BACK-END --->
 <td align="center">
